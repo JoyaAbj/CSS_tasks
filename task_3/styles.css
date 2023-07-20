@@ -2,17 +2,14 @@
     text-align: center;
     justify-content: center;
     font-family:Arial, Helvetica, sans-serif ;
-    padding-top: 10px;
-}
+    padding-top: 10px;}
 .img {
     width: 100%;
     height: 300px;
-    border-radius: 20px;
-}
+    border-radius: 20px;}
 .h2 {
     font-family: Arial, Helvetica, sans-serif;
-    margin-left: 30px;
-}
+    margin-left: 30px;}
 .ul {font-family: Arial, Helvetica, sans-serif;}
 .ol {font-family: Arial, Helvetica, sans-serif;}
 .paragraph {
@@ -25,6 +22,4 @@
     box-shadow: 10px;
     margin-left: 600px;
     margin-right: 600px;
-    padding: 0 15px 15px 15px;
-    
-}
+    padding: 0 15px 15px 15px;}
